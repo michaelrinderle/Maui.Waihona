@@ -1,2 +1,2 @@
 # Maui.Waihona
-Extended .NET MAUI Control and Utility Library
+Extended .NET MAUI Control library
